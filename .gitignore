@@ -1,0 +1,7 @@
+__pycache__/
+*.zip
+.ipynb_checkpoints/
+.DS_Store
+# Large datasets
+ModelNet-10/
+Segmentation&Depth-20260326T223945Z-3-001.zip
